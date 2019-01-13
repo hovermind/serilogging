@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilogging.Consol", "Seril
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilogging.Fyle", "Serilogging.Fyle\Serilogging.Fyle.csproj", "{B03F12E2-D8EC-409D-8EFC-C75136110C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCore.Sek", "WebAppCore.Sek\WebAppCore.Sek.csproj", "{63BD9970-4668-4B5B-BA23-F59ACFD033E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B03F12E2-D8EC-409D-8EFC-C75136110C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B03F12E2-D8EC-409D-8EFC-C75136110C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B03F12E2-D8EC-409D-8EFC-C75136110C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BD9970-4668-4B5B-BA23-F59ACFD033E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BD9970-4668-4B5B-BA23-F59ACFD033E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BD9970-4668-4B5B-BA23-F59ACFD033E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BD9970-4668-4B5B-BA23-F59ACFD033E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
