@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilogging.Console", "Serilogging.Console\Serilogging.Console.csproj", "{A7B61AB7-5828-4C40-A039-04540772B3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B61AB7-5828-4C40-A039-04540772B3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B61AB7-5828-4C40-A039-04540772B3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B61AB7-5828-4C40-A039-04540772B3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B61AB7-5828-4C40-A039-04540772B3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B716FF-147A-4212-98E7-3C6EB581E5A6}
+	EndGlobalSection
+EndGlobal
