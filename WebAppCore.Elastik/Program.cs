@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Serilog;
 
-namespace WebAppCore.Sek
+namespace WebAppCore.Elastik
 {
     public class Program
     {
@@ -14,6 +14,6 @@ namespace WebAppCore.Sek
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-                .UseSerilog(); // <- Plug Serilog into the pipeline;
+                .UseSerilog(); // <- Plug Serilog into the pipeline
     }
 }
